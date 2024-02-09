@@ -14,16 +14,3 @@
 .button:hover{
     transform: scale(1.05);
 }
-
-.button a{
-    display: inline-flex;
-    align-items: center;
-    color: #FFF;
-    font-size: 20px;
-    font-family: "Fira Code", sans-serif;
-    font-weight: 500;
-    text-decoration: none;
-    margin-right: 30px;
-}
-
-
